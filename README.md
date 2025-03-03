@@ -1,7 +1,7 @@
 # Hey there, I'm Kartik👋
 
 ## About Me 🧑‍💻
-I'm a Software Developer Intern at CS Soft Solution 🌟, specializing in building scalable and high-performance web and mobile applications. I have a passion for solving complex problems and creating innovative solutions with cutting-edge technologies. 🚀
+I'm a Software Developer Intern at Ilex Softhub Solution pvt lmt. 🌟, specializing in building scalable and high-performance web and mobile applications. I have a passion for solving complex problems and creating innovative solutions with cutting-edge technologies. 🚀
 
 ## 🔧 My Skills:
 - **Languages:** C, C++, Python 🐍
@@ -11,7 +11,7 @@ I'm a Software Developer Intern at CS Soft Solution 🌟, specializing in buildi
 - **Other Technologies:** API Development, Version Control (Git) 🛠️
 
 ## 💼 Current Focus:
-I’m currently working at CS Soft Solution, where I collaborate with a talented team to create impactful solutions that drive client success. 🌱
+I’m currently working at Ilex Softhub Solution pvt lmt where I collaborate with a talented team to create impactful solutions that drive client success. 🌱
 
 ## 🚀 I’m Open To:
 - 💬 Collaborations
